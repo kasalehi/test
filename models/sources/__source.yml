@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: devsc
+    database: dev 
+    tables:
+      - name: customers
+      - name: orders
